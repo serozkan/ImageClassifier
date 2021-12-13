@@ -1,2 +1,0 @@
-train.py
-predict.py
